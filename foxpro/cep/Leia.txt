@@ -1,0 +1,17 @@
+   Os arquivos neste diretório são um exemplo de como utilizar
+o WEB Service de consulta de cep disponibilizado no endereço:
+
+http://www.byjg.com.br/site/webservice.php/ws/cep
+
+   Leia o texto do site do propietário do serviço:
+
+http://www.byjg.com.br/site/xmlnuke.php?xml=onlinecep
+
+   A ByJG é uma empresa especializada em desenvolver soluções
+baseadas em Tecnologia da Informação, saiba mais em:
+
+http://www.byjg.com.br/site/xmlnuke.php?xml=home&lang=pt-br
+
+
+Graciano dos Santos Duarte
+16:05 08/09/2009
